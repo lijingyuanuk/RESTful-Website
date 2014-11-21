@@ -1,0 +1,17 @@
+{
+  "name": "restweb",
+  "version": "0.1.0",
+  "dependencies": {
+    "orm": "2.1.19",
+    "express": "3.3.*",
+    "sqlite3": "3.0.4",
+    "lodash": "2.3.0",
+    "nodemon": "0.7.10",
+    "moment": "2.4.0",
+    "colors": "0.6.2"
+},
+  "scripts": {
+  	"start": "script/start",
+  	"reset": "script/reset"
+  }
+}
